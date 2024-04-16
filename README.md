@@ -1,3 +1,4 @@
+#README.md file 
 module "kinesis-stream" {
 
   source  = "rodrigodelmonte/kinesis-stream/aws"
